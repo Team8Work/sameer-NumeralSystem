@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\Learn4W\Coding\bin\Debug\net6.0\Coding.exe
+C:\Users\Work\Documents\Learn4W\Coding\bin\Debug\net6.0\Coding.deps.json
+C:\Users\Work\Documents\Learn4W\Coding\bin\Debug\net6.0\Coding.runtimeconfig.json
+C:\Users\Work\Documents\Learn4W\Coding\bin\Debug\net6.0\Coding.dll
+C:\Users\Work\Documents\Learn4W\Coding\bin\Debug\net6.0\Coding.pdb
+C:\Users\Work\Documents\Learn4W\Coding\obj\Debug\net6.0\Coding.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\Learn4W\Coding\obj\Debug\net6.0\Coding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Learn4W\Coding\obj\Debug\net6.0\Coding.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Learn4W\Coding\obj\Debug\net6.0\Coding.AssemblyInfo.cs
+C:\Users\Work\Documents\Learn4W\Coding\obj\Debug\net6.0\Coding.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Learn4W\Coding\obj\Debug\net6.0\Coding.dll
+C:\Users\Work\Documents\Learn4W\Coding\obj\Debug\net6.0\refint\Coding.dll
+C:\Users\Work\Documents\Learn4W\Coding\obj\Debug\net6.0\Coding.pdb
+C:\Users\Work\Documents\Learn4W\Coding\obj\Debug\net6.0\Coding.genruntimeconfig.cache
+C:\Users\Work\Documents\Learn4W\Coding\obj\Debug\net6.0\ref\Coding.dll
